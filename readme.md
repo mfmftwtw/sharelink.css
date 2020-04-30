@@ -2,6 +2,10 @@
 
 `sharelink.css` including Facebook, Guthub, Instagram, Line, Linkedin, Mail, Pinterest, Reddit, Telegram, Tumblr, Twitter, WhatsApp and Youtube, fast and easy, only use HTML without using JavaScript, and any images.
 
+## Example
+
+[http://var.tw/sharelink.css/](http://var.tw/sharelink.css/)
+
 ## Quick Start
 
 1\. Include the file.
@@ -105,18 +109,6 @@
 | Gary              | `sl-muted`         |
 | White             | `sl-light`         |
 
-### Rounded Corners
-
-```html
-<i class="sl sl-facebook sl-rounded-circle"></i>
-```
-
-|                   | Class Name         |
-| ----------------- | ------------------ | 
-| Rounded Small     | `sl-rounded-sm`    |
-| Rounded Large     | `sl-rounded-lg`    |
-| Circle            | `sl-rounded-circle`|
-
 ### Button Style
 
 ```html
@@ -140,6 +132,18 @@
 ```html
 <i class="sl sl-facebook sl-outline"></i>
 ```
+
+### Rounded Corners
+
+```html
+<i class="sl sl-facebook sl-btn sl-rounded-circle"></i>
+```
+
+|                   | Class Name         |
+| ----------------- | ------------------ | 
+| Rounded Small     | `sl-rounded-sm`    |
+| Rounded Large     | `sl-rounded-lg`    |
+| Circle            | `sl-rounded-circle`|
 
 ## License
 
