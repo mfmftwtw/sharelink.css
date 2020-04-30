@@ -57,11 +57,18 @@
 |                   | Class Name         |
 | ----------------- | ------------------ | 
 | Facebook          | `sl-facebook`      |
+| Github            | `sl-gitgub`        |
+| Instagram         | `sl-instagram`     |
 | Line              | `sl-line`          | 
 | Linkedin          | `sl-linkedin`      | 
+| Mail              | `sl-mail`          | 
+| Pinterest         | `sl-pinterest`     | 
+| Reddit            | `sl-reddit`        | 
 | Telegram          | `sl-telegram`      |
+| Tumblr            | `sl-tumblr`        |
 | Twitter           | `sl-twitter`       | 
 | WhatsApp          | `sl-whatsapp`      | 
+| Youtube           | `sl-youtube`       | 
 
 ### Size
 
