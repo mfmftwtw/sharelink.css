@@ -1,6 +1,6 @@
 # sharelink.css
 
-`sharelink.css` including Facebook, Guthub, Instagram, Line, Linkedin, Mail, Pinterest, Reddit, Telegram, Tumblr, Twitter, WhatsApp and Youtube, fast and easy, only use HTML without using JavaScript, CSS and any images.
+`sharelink.css` including Facebook, Guthub, Instagram, Line, Linkedin, Mail, Pinterest, Reddit, Telegram, Tumblr, Twitter, WhatsApp and Youtube, fast and easy, only use HTML without using JavaScript, and any images.
 
 ## Quick Start
 
