@@ -124,7 +124,7 @@
 |                   | Class Name         |
 | ----------------- | ------------------ | 
 | Black             | `sl-bg-dark`       |
-| Gray              | `sl-bg-gray`       |
+| Gray              | `sl-bg-muted`       |
 | White             | `sl-bg-light`      |
 
 ### Outline Style
