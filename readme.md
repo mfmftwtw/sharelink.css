@@ -4,7 +4,7 @@
 
 ## Example
 
-[http://var.tw/sharelink.css/](http://var.tw/sharelink.css/)
+[http://var.tw/mfmftwtw/sharelink.css/](http://var.tw/mfmftwtw/sharelink.css/)
 
 ## Quick Start
 
